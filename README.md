@@ -1,6 +1,6 @@
 # XML Unfugly
 
-A small Go program that unfuglies (or prettifies) XML form stdin.
+A small Go program that unfuglies (or prettifies) XML from stdin.
 
 The solution was found on Stackoverflow, and I've just packaged it up.
 
